@@ -1,0 +1,7 @@
+1. base case is when it gets to the end of the last branch. recursive case is
+when it still has more branches
+
+2. lengthdrawn and which way to rotate
+
+3.  draw the trunk, make 2 child  branches, make the length smaller on each
+branch
